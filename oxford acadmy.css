@@ -1,0 +1,136 @@
+.mm{height: 150px;
+	   width: 1330px;
+	   background-image: url(face.png);
+	   text-align: center;
+	   font-size: 55px;
+	   margin-top: -7px;
+	   padding-top: 20px;
+	   border:2px solid black;
+       
+	}
+
+.sec{font-size: 40px;
+	color: green;
+}
+
+
+
+.logs{height: 168px;
+	width: 200px;
+    background-color: red;
+    position: absolute;
+    top: 4px;
+    background-image: url(lo.png);
+    
+
+}
+
+.menu{display: inline;
+	position: relative;
+	top: -30px;
+	background-color: orange;
+	height: 300px;
+	font-size: 25px;
+	padding: 5px;}
+
+.main{height: 500px;
+	width: 1330px;
+	background-color: red;
+	background-image: url(bb.png);
+	border:3px solid black;
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-top: 10px;}
+
+.bdy{ background-color: pink;
+
+}
+.pera1{ 
+font-size: 65px;
+	font-weight: bold;
+	text-align: center;
+	color: darkblue;
+	font-family: ;}
+
+.pera2{font-size: 20px;
+	text-align: center;
+		font-family: cursive;}
+
+.box1{background-image: url(kk.jfif);  }
+
+.pera3{font-size: 30px;
+	  font-family: cursive;
+	  text-align: center;
+	  text-decoration: underline;
+	  position: relative;
+	  top: -50px;
+	  color: black;
+
+	}
+
+
+       
+ul li{ font-size: 20px;
+	font-family: cursive;
+	
+	position: absolute;
+	top: -30px;
+
+
+}
+
+.pera4{background-color: black;
+	height: 190px;
+	width: 400px;
+	color: white;
+	position: relative;
+    top: 25px;
+
+}
+	
+.box4{ background-image: url(nor.jpg); }
+ 
+.box5{ background-image: url(exam.jpg); }
+	 
+.pera7{ text-align: center;
+	font-family: cursive;}
+
+ .man{height: 250px;
+	width: 1350px;
+	background-color:  red;
+	padding-top: 20px;
+	text-decoration: underline;
+	color: white;}
+
+.kom{content: white;
+	position: relative;
+	top: 30px;
+	left: 70px;
+	font-size: 20px;
+	text-decoration: none;}
+	
+ul li{display: inline;
+	position: relative;
+	left: 50px;
+	font-size: 20px;
+	padding: 30px;
+    bottom: 95px;
+    color: white;
+    text-decoration: underline white;}
+
+.wrong{ text-align: center;
+	font-size: 25px;
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
